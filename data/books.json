@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "La voz ausente",
+        "authorId": 1
+    },
+    {
+        "id": 2,
+        "title": "Encuentros",
+        "authorId": 1
+    },
+    {
+        "id": 3,
+        "title": "El duelo",
+        "authorId": 1
+    },
+    {
+        "id": 4,
+        "title": "Los padecientes",
+        "authorId": 1
+    },
+    {
+        "id": 5,
+        "title": "Critica de la razon pura",
+        "authorId": 2
+    },
+    {
+        "id": 6,
+        "title": "Las letras del tango",
+        "authorId": 3
+    }
+]
